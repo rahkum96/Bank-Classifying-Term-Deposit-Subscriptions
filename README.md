@@ -30,3 +30,32 @@ https://www.kaggle.com/gowthamchowdry/bank-classifying-term-deposit-subscription
 - The marketing department made the fewest offers to students, entrepreneurs, and housemaids.
 - 74.7 percent of students signed up for term deposits (Which was expected since the youngest segment of the population is most likely to be a student)
 - 66.3 percent of pensioners were inclined to subscribe to term deposits (This was also expected since the oldest segment of the population is most likely to be retirees).
+
+## Usage
+
+- Just run `jupyter notebook` in terminal and it will run in your browser.
+
+  Install Jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html) i've you haven't.
+
+
+## Modules needed:
+```
+- matplotlib
+- import statsmodels.api as sm
+- Pandas
+- numpy
+- Scikit-Learn &
+- seaborn
+```
+## Model Evaluation
+The Model accuracy is 0.9075018208302986
+              precision    recall  f1-score   support
+
+           0       0.96      0.94      0.95     10981
+           1       0.57      0.67      0.62      1376
+
+    accuracy                           0.91     12357
+   macro avg       0.77      0.80      0.78     12357
+weighted avg       0.92      0.91      0.91     12357
+
+
