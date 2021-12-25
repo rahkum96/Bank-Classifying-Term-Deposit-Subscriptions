@@ -36,8 +36,7 @@ The Model accuracy is 0.9075018208302986
            1       0.57      0.67      0.62      1376
 
     accuracy                           0.91     12357
-   macro avg       0.77      0.80      0.78     12357
-weighted avg       0.92      0.91      0.91     12357
+  
 
 ## EDA
 - What proportion( percent ) of potential clients accepted to suscribe to term deposits vs. refused to suscribe to term deposits are the questions to be answered.
